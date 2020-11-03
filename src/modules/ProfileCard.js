@@ -18,8 +18,8 @@ export default profile =>
           <td>{profile.job_title} <a href={profile.emp_site} target="_blank" rel="noopener noreferrer">@{profile.emp_name}</a></td>
         </tr>
         <tr>
-          <th>Favorite Tools</th>
-          <td>Linux, MSSQL, node.js, React, Atom.io, Git Bash</td>
+          <th>Favorite Frameworks</th>
+          <td>Python, Django, PostgreSQL, React, CSS</td>
         </tr>
       </tbody>
     </table>

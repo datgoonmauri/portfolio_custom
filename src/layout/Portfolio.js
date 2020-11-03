@@ -8,20 +8,26 @@ export default class extends React.Component {
     this.state = {
       portfolio: [{
         img: '//bulma.io/images/placeholders/800x480.png',
-        title: 'I did this',
+        title: 'Instagram_Clone',
         description: 'Lorem ipsum dolor sit amet, modus timeam no quo. Per ne splendide posidonium deterruisset.',
         github: '//www.github.com',
         href: '#'
       }, {
         img: '//bulma.io/images/placeholders/800x480.png',
-        title: 'I did that',
+        title: 'Kwitter',
         description: 'Lorem ipsum dolor sit amet, modus timeam no quo. Per ne splendide posidonium deterruisset.',
         href: '#'
       }, {
         img: '//bulma.io/images/placeholders/800x480.png',
-        title: 'AND THIS!',
+        title: 'GammerTagged',
         description: 'Lorem ipsum dolor sit amet, modus timeam no quo. Per ne splendide posidonium deterruisset.'
-      }]
+      },  {
+        img: '//bulma.io/images/placeholders/800x480.png',
+        title: 'Connect Four',
+        description: 'Lorem ipsum dolor sit amet, modus timeam no quo. Per ne splendide posidonium deterruisset.',
+        href: '#'
+      }
+    ]
     };
   }
 

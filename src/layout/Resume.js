@@ -7,27 +7,19 @@ export default class extends React.Component {
     super(props);
     this.state = {
       work: [{
-        content: "Web Architect - Google",
-        date_formatted: "October 2018",
+        content: "Software Engineer - Kenzie Academy Apprenticeship",
+        date_formatted: "07/20",
         line_type: "primary",
         marker_type: "info",
-        skills: "Javascript,MSSQL,Web Design,Docker,Python",
-        start_date: "2018-10-01"
+        skills: "Javascript, PosgreSQL, React, Redux, ,Web Design, Django,Python"
       }, {
-        content: "PHP Developer - Facebook",
-        date_formatted: "July 2016",
+        content: "Electronics Repair Technician",
+        date_formatted: "01/2020",
         line_type: "primary",
         marker_type: "info",
-        skills: "PHP,Docker",
-        start_date: "2016-07-01"
-      }, {
-        content: "Texas A&M - Bachelor of Science",
-        date_formatted: "May 2016",
-        line_type: "primary",
-        marker_type: "info",
-        skills: "Computer Science",
-        start_date: "2016-05-10"
-      }]
+        skills: "Troubleshooting software and hardware, ran multiple forms of testing during troubleshooting, ",
+             }
+      ,],
     };
   }
 

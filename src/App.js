@@ -40,7 +40,7 @@ export default props =>
     <Nav />
     <Header
       greeting="Hi"
-      title="I'm Joe"
+      title="I'm Mauricio"
       subtitle="a Web Developer"
      />
     <About id="about" />
